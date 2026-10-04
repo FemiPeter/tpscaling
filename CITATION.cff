@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+title: "tpscaling: extreme precipitation-temperature scaling over the Tibetan Plateau"
+abstract: >-
+  Pipeline for estimating and classifying extreme precipitation-temperature
+  scaling by temperature-percentile binning, including LOESS-based detection of
+  peak structures and classification into negative, sub-C-C, C-C and super-C-C
+  scaling regimes.
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/FemiPeter/tpscaling"
+authors:
+  - family-names: Olowe
+    given-names: Jesufemi
+keywords:
+  - extreme precipitation
+  - Clausius-Clapeyron scaling
+  - Tibetan Plateau
+  - quantile regression
